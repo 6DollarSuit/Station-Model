@@ -1,0 +1,7 @@
+This is built (as of 9/9/2018) to read a single line of data from a text file.
+To use this program, you have to get yourself a single text line of raw METAR data.
+Copy this data from somewhere on the internet, preferably close to your location.
+Airports are a safe bet, they have very complete data.
+Paste it into a file called "weather.txt" and have that right next to the program.
+Run the program, and read your station model to know what the current weather is.
+REMEMBER! THIS DOES NOT FORECAST!
